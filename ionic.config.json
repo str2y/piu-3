@@ -1,0 +1,8 @@
+{
+  "name": "piu-3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c466e383"
+}
