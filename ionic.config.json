@@ -1,8 +1,8 @@
 {
-  "name": "piu-3",
+  "name": "unijui",
   "integrations": {
     "capacitor": {}
   },
   "type": "react-vite",
-  "id": "c466e383"
+  "id": "603a3256"
 }
